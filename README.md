@@ -1,7 +1,7 @@
-# Airbnb New User Booking Prediction
+# AIRBNB NEW USER BOOKING PREDICTION
 
 
-# PROJECT DEVELOPED WITHIN THE _'COMUNIDADE DS'_ 
+## PROJECT DEVELOPED WITHIN THE _'COMUNIDADE DS'_ 
 The <a   href= "https://www.comunidadedatascience.com/"> _'COMUNIDADE DS'_</a>. is the training center for Data Scientists, which teaches this profession as if you were working in a real company, through the cyclical method and andragogy. 
 
 <p align="center">
@@ -14,7 +14,7 @@ The <a   href= "https://www.comunidadedatascience.com/"> _'COMUNIDADE DS'_</a>. 
   <img src="https://cdn.pixabay.com/photo/2018/05/14/12/18/airbnb-3399753_960_720.jpg">
 </p>
 
-# Where will a new guest book their first travel experience?
+## WHERE WILL A NEW GUEST BOOK THEIR FIRST TRAVEL EXPERIENCE?
 
 
 Instead of waking to overlooked "Do not disturb" signs, <a href="https://www.airbnb.com/">Airbnb</a> travelers find themselves rising with the birds in a whimsical treehouse, having their morning coffee on the deck of a houseboat, or cooking a shared regional breakfast with their hosts.
@@ -23,7 +23,7 @@ New users on Airbnb can book a place to stay in 34,000+ cities across 190+ count
 
 In this recruiting competition, Airbnb challenges you to predict in which country a new user will make his or her first booking. Kagglers who impress with their answer (and an explanation of how they got there) will be considered for an interview for the opportunity to join Airbnb's <a href="https://www.airbnb.com/careers/departments/data-science-analytics">Data Science and Analytics team</a>.
 
-## Data Description
+### Data Description
 
 In this challenge, you are given a list of users along with their demographics, web session records, and some summary statistics. You are asked to predict which country a new user's first booking destination will be. All the users in this dataset are from the USA.
 
@@ -31,7 +31,7 @@ There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB
 
 The training and test sets are split by dates. In the test set, you will predict all the new users with first activities after 7/1/2014 (note: this is updated on 12/5/15 when the competition restarted). In the sessions dataset, the data only dates back to 1/1/2014, while the users dataset dates back to 2010. 
 
-## File descriptions
+### File descriptions
 
 - train_users.csv - the training set of users <br>
 - test_users.csv - the test set of users <br>
